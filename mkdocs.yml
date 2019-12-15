@@ -6,5 +6,3 @@ repo_url: "https://github.com/repoweb/test"
 copyright: "Cinder is licensed under the <a href='https://github.com/repoweb/test/blob/master/LICENSE.md'>MIT license</a>"
 nav:
   - Home: index.md
-markdown_extensions:
-  - admonition
