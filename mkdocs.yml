@@ -1,0 +1,10 @@
+site_name: RepoWeb Docs
+theme: cinder
+site_author: Marcelo Sena
+site_description: "A clean, responsive theme for static documentation websites that are generated with MkDocs"
+repo_url: "https://github.com/repoweb/test"
+copyright: "Cinder is licensed under the <a href='https://github.com/repoweb/test/blob/master/LICENSE.md'>MIT license</a>"
+nav:
+  - Home: index.md
+markdown_extensions:
+  - admonition
