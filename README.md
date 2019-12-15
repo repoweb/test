@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RepoWeb](https://repoweb.github.io/img/repoweb_logo.png){:target="_blank"}
+![RepoWeb](https://repoweb.github.io/img/repoweb_logo.png){:width="200px"}
 
 </div>
 
