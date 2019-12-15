@@ -10,3 +10,5 @@
 [![GitHub Release](https://img.shields.io/github/v/release/repoweb/template-repository)](https://github.com/repoweb/template-repository/releases)
 
 </div>
+
+![description](https://img.shields.io/github/v/release/repoweb/template-repository){:target="_blank"}
