@@ -1,5 +1,5 @@
 site_name: RepoWeb Docs
-theme: cinder
+theme: bootstrap
 site_author: Marcelo Sena
 site_description: "A clean, responsive theme for static documentation websites that are generated with MkDocs"
 repo_url: "https://github.com/repoweb/test"
